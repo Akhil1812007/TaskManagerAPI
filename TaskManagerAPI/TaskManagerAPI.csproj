@@ -24,4 +24,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\TaskManager.API.core\TaskManager.API.core.csproj" />
+  </ItemGroup>
+
 </Project>

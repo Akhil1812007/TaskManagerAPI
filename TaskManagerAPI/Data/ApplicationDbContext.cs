@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using TaskManagerAPI.Model;
+using TaskManager.API.Core.Identity;
+using TaskManager.API.Core.Model;
 
 namespace TaskManagerAPI.Data
 {

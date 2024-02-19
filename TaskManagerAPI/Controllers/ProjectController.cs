@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using TaskManager.API.Core.Model;
 using TaskManagerAPI.Data;
-using TaskManagerAPI.Model;
 
 namespace TaskManagerAPI.Controllers
 {

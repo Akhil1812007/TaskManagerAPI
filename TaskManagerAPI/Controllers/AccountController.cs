@@ -2,9 +2,10 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using TaskManager.API.Core.DTO;
+using TaskManager.API.Core.Identity;
 
 using TaskManagerAPI.Data;
-using TaskManagerAPI.DTO;
 
 namespace TaskManagerAPI.Controllers
 {
