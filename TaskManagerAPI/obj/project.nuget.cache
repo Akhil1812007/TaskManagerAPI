@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "QsFMQCZaP2PBhH9QoJGQAZGomD0JdAaLxNEDDgJlf/VfZ+S8+uzwBaN2N4vQKREpjdVKsgi5hKd2RXhJ365KJg==",
-  "success": false,
+  "dgSpecHash": "2cHZKY5W9DEZBSwL5HyCrRBhuJf8WK5WH2jfiAPY5jg/x3OquX2KUbZM2K/Ue0y6ANe0SbT+jvWGRrvttMVMAQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\akhil\\source\\repos\\Temp\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akhil\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
@@ -244,15 +244,6 @@
     "C:\\Users\\akhil\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\akhil\\source\\repos\\Temp\\TaskManager.API.core\\TaskManager.API.core.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\akhil\\source\\repos\\Temp\\TaskManager.API.core\\TaskManager.API.core.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
     {
       "code": "NU1701",
       "level": "Warning",

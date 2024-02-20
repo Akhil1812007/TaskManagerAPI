@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akhil\\source\\repos\\TaskManager.API.core\\TaskManager.API.core.csproj",
+      "projectUniqueName": "C:\\Users\\akhil\\source\\repos\\Temp\\TaskManagerAPI\\TaskManager.API.core\\TaskManager.API.core.csproj",
       "projectName": "TaskManager.API.core",
-      "projectPath": "C:\\Users\\akhil\\source\\repos\\TaskManager.API.core\\TaskManager.API.core.csproj",
+      "projectPath": "C:\\Users\\akhil\\source\\repos\\Temp\\TaskManagerAPI\\TaskManager.API.core\\TaskManager.API.core.csproj",
       "packagesPath": "C:\\Users\\akhil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akhil\\source\\repos\\TaskManager.API.core\\obj\\",
+      "outputPath": "C:\\Users\\akhil\\source\\repos\\Temp\\TaskManagerAPI\\TaskManager.API.core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akhil\\AppData\\Roaming\\NuGet\\NuGet.Config",

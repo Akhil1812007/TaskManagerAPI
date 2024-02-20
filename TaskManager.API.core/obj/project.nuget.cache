@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NvpWW7krV0SwaM8Z/hnb/z9Cc6/JEF6z5GUEt9VNuEB2StCOm405vjttldHICAV48ZxvF/TAPEInxcJOBrpd8A==",
+  "dgSpecHash": "Q3JF90gfouR+6nO7OS7i0FqIM6BjUzYXSZtlEqtOFFXs7JkKuGDgdDOnEZ1TDTT86jpRM5PajAU3LS/y06f0xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akhil\\source\\repos\\TaskManager.API.core\\TaskManager.API.core.csproj",
+  "projectFilePath": "C:\\Users\\akhil\\source\\repos\\Temp\\TaskManagerAPI\\TaskManager.API.core\\TaskManager.API.core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
